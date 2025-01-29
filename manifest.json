@@ -199,14 +199,7 @@
         "Repository": "CRAN",
         "Date/Publication": "2024-06-21 21:00:07 UTC",
         "Built": "R 4.3.3; aarch64-apple-darwin20; 2024-06-21 21:30:24 UTC; unix",
-        "Archs": "cli.so.dSYM",
-        "RemoteType": "standard",
-        "RemotePkgRef": "cli",
-        "RemoteRef": "cli",
-        "RemoteRepos": "https://cloud.r-project.org",
-        "RemoteReposName": "CRAN",
-        "RemotePkgPlatform": "aarch64-apple-darwin20",
-        "RemoteSha": "3.6.3"
+        "Archs": "cli.so.dSYM"
       }
     },
     "commonmark": {
@@ -1098,7 +1091,7 @@
   },
   "files": {
     ".Rprofile": {
-      "checksum": "248e13521bc8b3673fdbe2fad6ba6598"
+      "checksum": "7f52d953673fcf4b0b9b03673875c528"
     },
     "app.R": {
       "checksum": "316817a93898349198e112c170cb2e89"
