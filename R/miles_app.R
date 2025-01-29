@@ -3,6 +3,8 @@ library(bslib)
 library(dplyr)
 library(tidyr)
 library(ggplot2)
+library(DT)
+library(fmsb)
 
 miles_app <- function(...) {
         # [Previous UI code remains the same up until the server function]
