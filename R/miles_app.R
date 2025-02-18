@@ -27,7 +27,7 @@ miles_app <- function(...) {
       style = "background: linear-gradient(90deg, #2C3E50 0%, #3498DB 100%);",
       div(
         style = "color: white; padding: 15px;",
-        h2("Internal Medicine Milestones 2.0 Analysis",
+        h2("Residency/Fellowship Program Milestones 2.0 Analysis",
            style = "margin: 0; font-weight: 300;")
       )
     ),
