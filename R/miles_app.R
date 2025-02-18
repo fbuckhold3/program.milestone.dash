@@ -18,7 +18,7 @@ miles_app <- function(...) {
   
   ui <- page_fluid(
     theme = my_theme,
-    title = "Internal Medicine Milestones 2.0 Analysis",
+    title = "Residency/Fellowship Program Milestones 2.0 Analysis",
     style = "min-height: 100vh;",
     
     card(
