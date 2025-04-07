@@ -67,7 +67,7 @@ miles_app <- function(...) {
         ),
         
         layout_columns(
-          col_widths = c(6, 6),
+          col_widths = c(4, 8),
           card(
             height = "calc(50vh - 60px)",  # Adjusted height
             class = "shadow-sm",
